@@ -1,0 +1,11 @@
+    
+#Spring Boot + Spring Cloud Netflix
+    |--统一的依赖管理
+    |--服务注册与发现【Eureka】
+    |--服务提供者
+    |--服务消费者【Ribbon】【Feign】
+    |--熔断器【Hystrix】
+    |--路由网关【zuul】
+    |--分布式配置中心【Spring Cloud Config】
+    |--链路追踪【Zipkin】
+    |--服务监控【服务端】【客户端】
